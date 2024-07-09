@@ -17,3 +17,4 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1720254385511,1,Login,200,OK,Institute Mgmt-1,text,true,,5270,121,1,1,http://localhost:8888/login,1,0,0
 1720254385513,2,Admins,200,OK,Institute Mgmt-1,text,true,,639,122,1,1,http://localhost:8888/admins,2,0,0
 1720254385515,2,Contact,200,OK,Institute Mgmt-1,text,true,,655,123,1,1,http://localhost:8888/contact,2,0,0
+
